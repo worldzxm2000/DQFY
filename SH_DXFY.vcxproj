@@ -14,7 +14,7 @@
     <ProjectGuid>{8E558244-0440-3D31-A446-D3B81600B0B2}</ProjectGuid>
     <RootNamespace>SH_DXFY</RootNamespace>
     <Keyword>Qt4VSv1.0</Keyword>
-    <ProjectName>SH_DXFY</ProjectName>
+    <ProjectName>SH_DQFY</ProjectName>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
