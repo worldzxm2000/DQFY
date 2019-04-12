@@ -17,7 +17,7 @@ int GetPort()
 //获取业务号
 int GetServiceTypeID()
 {
-    return 12;
+    return 8;
 }
 
 //获取版本号
@@ -29,7 +29,7 @@ QString GetVersionNo()
 //获取业务名称
 QString GetServiceTypeName()
 {
-    QString name = QString::fromLocal8Bit("湿地负氧离子业务");
+    QString name = QString::fromLocal8Bit("湿地大气负离子业务");
     return name;
 }
 
