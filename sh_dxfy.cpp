@@ -153,6 +153,8 @@ LRESULT Char2Json(QString &buff, QJsonObject &json)
                     SubJson.insert("StationID", strlist.at(1));
                     //12大气负氧离子
                     SubJson.insert("ServiceTypeID",SH_DXFY);
+					//数据存储类型
+					SubJson.insert("DataSourceID", 12);
                     //纬度
                    SubJson.insert("Latitude", ConvertToC(strlist.at(2)));
                     //经度

@@ -14,7 +14,7 @@
 #include<QPushButton>
 #define HEADER "BG"
 #define TAIL "ED"
-#define SH_DXFY "12"
+#define SH_DXFY "8"
 QString Convert2Time(QString strTime);
 QString ConvertToC(QString str);
 //获取业务号
